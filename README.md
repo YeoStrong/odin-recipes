@@ -1,2 +1,2 @@
-This is first project with TOP.
-I will make basic HTML structure.
+# The 1st TOP Project
+Practicing basic HTML and learning how to use GitHub.
