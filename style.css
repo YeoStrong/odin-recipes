@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1 {
+  text-align: center;
+  color:rgb(255, 255, 255);
+  background-color: black;
+  width: 500px;
+  margin: 0 auto 50px;
+  padding: 50px 25px;
+  font-size: 70px;
+}
+
+.recipe-list {
+  font-size: 30px;
+  margin-left: 70px;
+  margin-bottom: 20px;
+}
+
+li {
+  font-size: 1.5em;
+}
+
+a {
+  color: black;
+  text-decoration-line: none;
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+p {
+  font-size: 1.5em;
+  margin: 20px;
+}
+
+image {
+  margin: 0 auto;
+}
